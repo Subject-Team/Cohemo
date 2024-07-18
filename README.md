@@ -6,6 +6,7 @@ ___
 #### Coordinator and support: Mohammad Parsa Ebrahimi
 ___
 #### List of other influencers:
+
 ___
 ###### Place For Decriptions
 ___
@@ -22,3 +23,6 @@ Mohammad Parsa Ebrahimi:
 +989122602234 -
 +989333042007 -
 +989124635585 -
++982634426491 -
+Iran, Alborz, Karaj -
+eb_parsa on Eitaa, SoroshPlus, Virasty, Telegram and Discord
