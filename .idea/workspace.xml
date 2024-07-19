@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c48211-7432-40b7-9da2-e9746618df10" name="Changes" comment="Add developers informations" />
+    <list default="true" id="a6c48211-7432-40b7-9da2-e9746618df10" name="Changes" comment="Add developers informations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +60,9 @@
       <workItem from="1721308651206" duration="2182000" />
       <workItem from="1721313972369" duration="595000" />
       <workItem from="1721315297874" duration="338000" />
+      <workItem from="1721322695948" duration="12000" />
+      <workItem from="1721390507026" duration="24000" />
+      <workItem from="1721397236458" duration="26000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="Add developers informations">
       <option name="closed" value="true" />
