@@ -17,7 +17,7 @@ Mahan Khalili:
 +982634873073 - 
 khalili1388mahan@gmail.com -
 Iran, Alborz, Karaj -
-mahan_khalili on Eitaa
+Mahan_Khalili on Eitaa
 
 Mohammad Parsa Ebrahimi:
 +989122602234 -
@@ -25,4 +25,4 @@ Mohammad Parsa Ebrahimi:
 +989124635585 -
 +982634426491 -
 Iran, Alborz, Karaj -
-eb_parsa on Eitaa, SoroshPlus, Virasty, Telegram and Discord
+EbParsa on Eitaa, SoroshPlus, Virasty, Telegram and Discord

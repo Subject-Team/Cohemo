@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c48211-7432-40b7-9da2-e9746618df10" name="Changes" comment="Add developers informations">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6c48211-7432-40b7-9da2-e9746618df10" name="Changes" comment="Add developers informations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -76,6 +76,7 @@
       <workItem from="1721405930280" duration="458000" />
       <workItem from="1721485045467" duration="328000" />
       <workItem from="1721485387681" duration="16000" />
+      <workItem from="1721488833021" duration="4000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="Add developers informations">
       <option name="closed" value="true" />
