@@ -8,9 +8,11 @@ ___
 #### List of other influencers:
 
 ___
-###### Place For Decriptions
+
+###### Place For Descriptions
 ___
-### Contatc with development team:
+
+### Contact with development team:
 ###### List sorted by join time
 Mahan Khalili: 
 +989922202075 -
@@ -25,4 +27,4 @@ Mohammad Parsa Ebrahimi:
 +989124635585 -
 +982634426491 -
 Iran, Alborz, Karaj -
-EbParsa on Eitaa, SoroshPlus, Virasty, Telegram and Discord
+EbParsa on Eitaa, SPlus, Virasty, Telegram and Discord
